@@ -9,4 +9,5 @@ This sample is for publishing a prototype of @yoshiayu.
 Although python [Django] is the main language, it is a sample of studying movement with JavaScript.  
 
 # 遊び方
-## 
+## https://yoshiayu.github.io/sinkei/
+## の後にsinkei.htmlを追加してください。
