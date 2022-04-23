@@ -10,4 +10,3 @@ Although python [Django] is the main language, it is a sample of studying moveme
 
 # 遊び方
 ## https://yoshiayu.github.io/sinkei/sinkei.html
-## の後にsinkei.htmlを追加してください。
