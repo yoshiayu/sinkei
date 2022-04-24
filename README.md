@@ -1,6 +1,8 @@
 # 神経衰弱ゲームのサンプル  
 # (Sample of a memory weakness game)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&layout=compact&theme=dracula)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiayu&show_icons=true&theme=radical)  
+
 ## ゲームサンプルについて(About the game sample)  
 
 このサンプルは@yoshiayuの試作を公開するためのものです。  
